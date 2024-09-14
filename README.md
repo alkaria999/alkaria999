@@ -1,24 +1,31 @@
-# Hello World!!! 👋  I'm Alkaria Mandal. 
- 
-I'm a very enthusiast full stack software developer from Kolkata, a beautiful city in the eastern part of India.
+![banner](https://github.com/user-attachments/assets/d82ee4f2-6241-426e-a719-359c9db0926a)
 
+<h2>Hi !!! 👋</h2>
 
-### ABOUT ME 🙋‍  ![Profile View Counter](https://komarev.com/ghpvc/?username=alkaria999&color=brightgreen)
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
-- 🌱 I’m currently learning Kubernetes, Harness, Splunk etc.
-- 💬 Trying to become an expert in Fullstack development ❤
-- 💻 I love exploring new tech stacks and building cool stuff.
-- 📰 Reading tech documentation whenever possible.
-- 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: Always start with Hello from Scratch .🤣
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alkaria999.alkaria999)](https://github.com/alkaria999) 
+[![Followers](https://img.shields.io/github/followers/alkaria999.svg?style=social&label=Follow)](https://github.com/alkaria999?tab=followers)
+![Profile View Counter](https://komarev.com/ghpvc/?username=alkaria999&color=brightgreen)
 
-### CONTACT ME:
+I'm Alkaria Mandal! 
+- <i>I'm a very enthusiast full stack software developer from Kolkata, a beautiful city in the eastern part of India.
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087281281029)
+<h2> 🕵️ About Me⚡:</h2>
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎<br>
+- 🌱 I’m currently learning Kubernetes, Harness, Splunk etc.<br>
+- 💬 Trying to become an expert in Fullstack development ❤<br>
+- 💻 I love exploring new tech stacks and building cool stuff.<br>
+- 📰 Reading tech documentation whenever possible.<br>
+- 😄 Pronouns: (He/Him)<br>
+- ⚡ Fun fact: Always start with Hello from Scratch .🤣<br>
+- Check out my Portfolio for more: [Portfolio](https://alkaria999.netlify.app)
+
+<h2>📫 Contact me:</h2>
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alkaria-mandal/) 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087281281029)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alkaria.mca40@gmail.com)
 
-### SKILLS & TECHNOLOGIES:
+<h2>🧑‍💻 Skills & Technologies</h2>
 
 <span><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" ></span>
 <span><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></span>
@@ -44,3 +51,28 @@ I'm a very enthusiast full stack software developer from Kolkata, a beautiful ci
 <span><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></span>
 <span><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></span>
 <span><img alt="Rancher" src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white"></span>
+
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/alkaria999/alkaria999">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alkaria999&repo=alkaria999" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/alkaria999/alngularjs-demo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alkaria999&repo=alngularjs-demo" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+<h2>👀 Stats</h2>
+
+<div>  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkaria999" alt="GitHub Stats" /> <br/><br/>
+</div>
+
+
+
