@@ -70,6 +70,9 @@ __Check out my GitHub repository:__
 
 <div>  
   <p align="center">
+    <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alkaria999&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="GitHub status" />
+</p>
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkaria999" alt="GitHub Stats" /> <br/><br/>
 </div>
