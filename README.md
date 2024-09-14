@@ -77,13 +77,10 @@ __Check out my GitHub repository:__
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkaria999" alt="GitHub Stats" /> <br/><br/>
 </div>
 
----
-
 ### Top Usage Languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaria999&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
----
 
 
 
