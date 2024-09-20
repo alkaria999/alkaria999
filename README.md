@@ -17,7 +17,7 @@ I'm Alkaria Mandal!
 - 📰 Reading tech documentation whenever possible.<br>
 - 😄 Pronouns: (He/Him)<br>
 - ⚡ Fun fact: Always start with Hello from Scratch .🤣<br>
-- Check out my Portfolio for more: [Portfolio](https://www.alkaria.me)
+- Check out my Portfolio for more: [Portfolio](https://www.alkaria.me/)
 
 <h2>📫 Contact me:</h2>
 
